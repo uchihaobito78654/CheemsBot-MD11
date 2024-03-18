@@ -20,8 +20,8 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'Cheems Bot MD V11' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
+global.ownernumber = '916289691237' //ur owner number
+global.ownername = 'UCHIHA OBITO' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
 global.themeemoji = '🪀'
@@ -39,7 +39,7 @@ global.typemenu = 'v8' // menu type 'v1' => 'v8'
 global.typereply = 'v2' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
+global.welcome = true //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
 global.adminevent = false //show promote/demote message
