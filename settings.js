@@ -20,8 +20,8 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'Cheems Bot MD V11' //ur bot name
-global.ownernumber = '917602722782' //ur owner number
-global.ownername = 'KAKASHI' //ur owner name
+global.ownernumber = '916295161237' //ur owner number
+global.ownername = 'TITHIN' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
 global.themeemoji = '🪀'
